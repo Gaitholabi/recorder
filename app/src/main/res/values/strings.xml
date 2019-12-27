@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RTi</string>
+    <string name="record">Record</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="rti_logo">rti-logo</string>
+    <string name="credentials_error">Invalid credentials, please try again.</string>
+    <string name="email_or_password_error">Please provide a valid email or a long password</string>
+    <string name="email_error">Please provide a valid email</string>
+    <string name="click_error">Please click back again to exit</string>
+    <string name="logout">logout</string>
+    <string name="listen">Listen</string>
+    <string name="record_error">A problem happened playing the record, please try again.</string>
+    <string name="no_records_error">You don\'t have any records yet</string>
+    <string name="storage_permission">Please allow storage permissions</string>
+    <string name="record_permission">Please allow record permissions</string>
+</resources>
